@@ -32,3 +32,6 @@ Enforces that only one TypeScript interface is defined per file.
 
 Enforces that only one TypeScript enum is defined per file.
 
+### proper-semantics
+
+Enforces that the TypeScript files are defined with proper semantics. For eg. an interface should be defined in a file with .interface.ts extension, a type should be defined in a file with .type.ts extension, an enum should be defined in a file with .enum.ts extension.
