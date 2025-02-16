@@ -1,0 +1,14 @@
+{
+  "name": "eslint-plugin-tsify",
+  "version": "1.0.0",
+  "description": "ESLint plugin for defining bunch of best TS practices for your project. For eg. one-interface-per-file will make sure you only have one interface defined for a single file reducing the chances of circular dependencies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "suyashpatil5",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": "^9.20.1"
+  }
+}
